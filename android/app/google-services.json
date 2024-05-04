@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214487377463",
+    "project_id": "birdie-app-ab3c6",
+    "storage_bucket": "birdie-app-ab3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214487377463:android:e8a22aef0531bc4dd1c1b2",
+        "android_client_info": {
+          "package_name": "com.example_app.birdie_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhi1LkDkgskddCRJ-Or3iceYZxIPxRFms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
